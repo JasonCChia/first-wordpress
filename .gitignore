@@ -11,3 +11,4 @@ wp-content/uploads/
 # OS
 .DS_Store
 Thumbs.db
+password.txt
